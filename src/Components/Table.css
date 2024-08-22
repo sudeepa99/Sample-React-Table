@@ -1,0 +1,11 @@
+.custom-paginator .p-paginator-pages .p-paginator-page {
+    margin-right: 1rem;
+    background-color: black;
+    padding: 6px;
+    border-radius: 20%; /* Adjust this value for more/less spacing */
+  }
+  
+  .custom-paginator .p-paginator-pages .p-paginator-page:last-child {
+    margin-right: 0; /* Remove margin for the last page number */
+  }
+  
